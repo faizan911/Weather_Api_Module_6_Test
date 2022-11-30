@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather API</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <!--Top Div -->
+    <div class="container1">
+        <div>
+            <h1><b>Weather Api</b></h1>
+        </div>
+        <div class="input1">
+            <div id="location">Location</div>
+        </div>
+        <div class="input2">
+            <div id="Token">Access Token</div>
+        </div>
+        <div class="button">
+            <button type="button" onclick="getRequestApi()">Submit</button>
+        </div>
+    </div>
+
+    <!-- Bottom Div -->
+    <div class="heading">Weather Data</div>
+    <div class="container2">
+        <div class="a same" >Location: </div>
+        <div class="b same" >Lat: </div>
+        <div class="c same" >Long: </div>
+        <div class="d same" >Time Zone: </div>
+        <div class="e same" >Wind Speed: </div>
+        <div class="f same" >Pressure: </div>
+        <div class="g same" >Humidity: </div>
+        <div class="h same" >Wind Direction: </div>
+        <div class="i same" >UV Index: </div>
+        <div class="j same" >Feels Like: </div>
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>

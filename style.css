@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+body{
+    width: 1728px;
+    height: 2334px;
+}
+.container1{
+    width: 1728px;
+    height: 837px;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    position: absolute;
+    font-family: 'Inter', sans-serif;
+    color: white;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 100px;
+    line-height: 121px;
+    top: 101px;
+    left: 518px;
+}
+.input1{
+    position: absolute;
+    width: 1372px;
+    height: 72px;
+    left: 146px;
+    top: 302px;
+    border: 1px solid #FFFFFF;
+}
+#location{
+    position: relative;
+    width: 321px;
+    height: 29px;
+    left: 13px;
+    top: 21px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    color: white;
+    background-color: black;
+}
+.input2{
+    position: absolute;
+    width: 1372px;
+    height: 72px;
+    left: 146px;
+    top: 409px;
+    border: 1px solid #FFFFFF;
+}
+#Token{
+    position: relative;
+    width: 321px;
+    height: 29px;
+    left: 13px;
+    top: 21px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    color: white;
+    background-color: black;
+}
+.button{
+    position: absolute;
+    width: 260.75px;
+    height: 58px;
+    left: 146px;
+    top: 549px;
+    background-color: #FFFFFF;
+}
+button{
+    position: relative;
+    width: 260.75px;
+    height: 58px;
+    background-color: #FFFFFF;
+    color: black;
+    cursor: pointer;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+}
+.heading{
+    position: absolute;
+    left: 62px;
+    top: 941px;
+    width: 912px;
+    height: 160px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 100px;
+    line-height: 121px;
+    color: #000000;
+}
+.container2{
+    position: absolute;
+    width: 1585px;
+    height: 1120px;
+    left: 62px;
+    top: 1136px;
+    border: 2px solid #000000;
+}
+.same{
+    width: 669.46px;
+    height: 74px;
+}
+.a{
+    position: absolute;
+    top: 56px;
+    left: 116px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 61px;
+    color: #000000;
+}
+.b{
+    position: absolute;
+    top: 165px;
+    left: 116px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 61px;
+    color: #000000;
+}
+.c{
+    position: absolute;
+    top: 177px;
+    left: 787px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 61px;
+    color: #000000;
+}
+.d{
+    position: absolute;
+    width: 700px;
+    top: 274px;
+    left: 116px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 61px;
+    color: #000000; 
+}
+.e{
+    position: absolute;
+    top: 383px;
+    left: 116px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 61px;
+    color: #000000;
+}
+.f{
+    position: absolute;
+    top: 486px;
+    left: 116px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 61px;
+    color: #000000;
+}
+.g{
+    position: absolute;
+    top: 589px;
+    left: 116px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 61px;
+    color: #000000;
+}
+.h{
+    position: absolute;
+    top: 692px;
+    left: 116px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 61px;
+    color: #000000;
+}
+.i{
+    position: absolute;
+    top: 801px;
+    left: 116px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 61px;
+    color: #000000;
+}
+.j{
+    position: absolute;
+    top: 904px;
+    left: 116px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 61px;
+    color: #000000;
+}
