@@ -13,30 +13,27 @@
         <div>
             <h1><b>Weather Api</b></h1>
         </div>
-        <div class="input1">
-            <div id="location">Location</div>
-        </div>
-        <div class="input2">
-            <div id="Token">Access Token</div>
+            <input type="text" class="input1" placeholder="Location" id="city">
+            <input type="text" class="input2" placeholder="Access Token (key = UVWMTQALQ9BM357GVJ3ZU7846)" id="Token">
         </div>
         <div class="button">
-            <button type="button" onclick="getRequestApi()">Submit</button>
+            <button type="button" onclick="getweather()">Submit</button>
         </div>
     </div>
 
     <!-- Bottom Div -->
     <div class="heading">Weather Data</div>
     <div class="container2">
-        <div class="a same" >Location: </div>
-        <div class="b same" >Lat: </div>
-        <div class="c same" >Long: </div>
-        <div class="d same" >Time Zone: </div>
-        <div class="e same" >Wind Speed: </div>
-        <div class="f same" >Pressure: </div>
-        <div class="g same" >Humidity: </div>
-        <div class="h same" >Wind Direction: </div>
-        <div class="i same" >UV Index: </div>
-        <div class="j same" >Feels Like: </div>
+        <div class="a same" >Location: <span class="common a1"><span></div>
+        <div class="b same" >Lat: <span class="common a2"></span></div>
+        <div class="c same" >Long: <span class="common a3"></span></div>
+        <div class="d same" >Time Zone: <span class="common a4"></span></div>
+        <div class="e same" >Wind Speed: <span class="common a5"></span></div>
+        <div class="f same" >Pressure: <span class="common a6"></span></div>
+        <div class="g same" >Humidity: <span class="common a7"></span></div>
+        <div class="h same" >Wind Direction: <span class="common a8"></span></div>
+        <div class="i same" >UV Index: <span class="common a9"></span></div>
+        <div class="j same" >Feels Like: <span class="common a10"></span></div>
     </div>
     <script src="./script.js"></script>
 </body>

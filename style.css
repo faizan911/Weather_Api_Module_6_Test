@@ -27,21 +27,11 @@ h1{
     height: 72px;
     left: 146px;
     top: 302px;
-    border: 1px solid #FFFFFF;
-}
-#location{
-    position: relative;
-    width: 321px;
-    height: 29px;
-    left: 13px;
-    top: 21px;
-    font-family: 'Inter';
-    font-style: normal;
     font-weight: 300;
     font-size: 24px;
     line-height: 29px;
+    background-color: #000000;
     color: white;
-    background-color: black;
 }
 .input2{
     position: absolute;
@@ -49,21 +39,11 @@ h1{
     height: 72px;
     left: 146px;
     top: 409px;
-    border: 1px solid #FFFFFF;
-}
-#Token{
-    position: relative;
-    width: 321px;
-    height: 29px;
-    left: 13px;
-    top: 21px;
-    font-family: 'Inter';
-    font-style: normal;
     font-weight: 300;
     font-size: 24px;
     line-height: 29px;
+    background-color: #000000;
     color: white;
-    background-color: black;
 }
 .button{
     position: absolute;
@@ -148,7 +128,7 @@ button{
 }
 .d{
     position: absolute;
-    width: 700px;
+    width: 900px;
     top: 274px;
     left: 116px;
     font-family: 'Inter';
@@ -223,4 +203,7 @@ button{
     font-size: 50px;
     line-height: 61px;
     color: #000000;
+}
+.common{
+    font-weight: bold;
 }
